@@ -1,1 +1,3 @@
-# system_analysis_n_design
+# Systems analysis and design
+
+Repository by Tomas Cárdenas Benítez - 202210200021
