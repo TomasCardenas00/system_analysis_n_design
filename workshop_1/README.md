@@ -13,4 +13,5 @@ In this folder, it will be presented the analysis of a Kaggle competition, consi
 
 Inside this Repository there will be presented two different files:
 
-- File #1 _workshop__1_
+1. _workshop__1_: Inside this PDF file, the said analysis in the introduction is going to be presented. The file is made in latex, as well as presented in a IEEE design
+2. _system_model_: This file contains the model of the system, as well as in the PDF file. However, due to the small presentation inside the PDF, it will be given here
