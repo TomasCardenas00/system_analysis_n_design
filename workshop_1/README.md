@@ -18,4 +18,4 @@ Inside this Repository there will be presented two different files:
 
 ### System model
 
-![System model]()
+![System model](https://github.com/TomasCardenas00/system_analysis_n_design/blob/main/workshop_1/system_model.jpg)
