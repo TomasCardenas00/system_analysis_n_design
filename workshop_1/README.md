@@ -11,3 +11,6 @@ In this folder, it will be presented the analysis of a Kaggle competition, consi
 
 ## Content
 
+Inside this Repository there will be presented two different files:
+
+- File #1 _workshop__1_
