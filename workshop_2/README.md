@@ -6,7 +6,7 @@ Workshop mande by:
 - Sebastian David Trujillo Vargas (20242020217)
 -  Tomás Cárdenas Benítez (20221020021)
 
-## Introduction 
 
 ## Content
-
+- img.png: The image of the architecture design for the system, posted here for better quailty
+- workshop_2: The PDF including the solution of the workshop asigned
