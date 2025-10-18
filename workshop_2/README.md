@@ -6,6 +6,8 @@ Workshop made by:
 - Sebastian David Trujillo Vargas (20242020217)
 - Tomás Cárdenas Benítez (20221020021)
 
+## Introduction
+In the following folder, it will be presented the continuing analysis of the system of a Kaggle competition, however, in this analysis there will be deeper analysis related with the high architecture of a system, as well as a better system boundaries creating, alongside making better explanations about the chaos and sensibility of the system
 
 ## Content
 - _img.png_: The image of the architecture design for the system, posted here for better quailty
