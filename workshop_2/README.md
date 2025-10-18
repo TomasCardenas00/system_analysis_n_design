@@ -10,3 +10,6 @@ Workshop mande by:
 ## Content
 - img.png: The image of the architecture design for the system, posted here for better quailty
 - workshop_2: The PDF including the solution of the workshop asigned
+### System model
+
+![System model](https://github.com/TomasCardenas00/system_analysis_n_design/blob/main/workshop_2/img.png)
